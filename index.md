@@ -26,7 +26,7 @@ Pluto is a manual tracker by design — there are no bank connections. You contr
 Exporting is not currently supported, but we're considering it. Let us know if this is something you'd like.
 
 5. How do I delete my account?
-Email us from the address associated with your account, and we’ll permanently delete your data within 7 days.
+You can delete your account through the Settings screen in the app. This will delete all your data.
 
 💡 Feature Suggestions
 We love feedback! If there’s a feature you’d like to see, just send us a quick email and we’ll add it to our roadmap.
