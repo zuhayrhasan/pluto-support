@@ -6,8 +6,8 @@ Welcome to the Pluto support page. We're here to help you get the most out of Pl
 📩 Contact Us
 If you're experiencing issues, have questions, or want to suggest a feature, feel free to contact us:
 
-Email: lunastudios724@gmail.com\n
-Developer: Luna Studios\n
+Email: lunastudios724@gmail.com
+Developer: Luna Studios
 
 We aim to respond within 2 business days.
 
